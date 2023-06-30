@@ -2,7 +2,7 @@
 A simple real time chat to understand WebSocket fundamentals
 (4h course given on Ignite @rocketseat)
 
-#Summary of content Learnt:
+# Summary of content Learnt:
 - dependency injection (Tsyringe)
 - websocket (socket.io)
 - express
